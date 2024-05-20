@@ -31,7 +31,8 @@ body {
   align-items: center;
   padding: 0 20px;
 }
-header img{
+
+.header img{
   margin: 20px;
 }
 
